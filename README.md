@@ -1,8 +1,12 @@
-**Remote-controllable drones are still a work-in-progress by the Rust developers. This plugin fixes one of the current issues with them, and will likely not be necessary in the future.**
+**Remote-controllable drones are still a work-in-progress by the Rust developers. This plugin fixes one of the current issues with them.**
 
 This plugin fixes the issue where remote-controlling a Drone via a computer station can cause it to lose signal when it gets out of range. With this plugin installed, the signal is never lost.
 
 ## FAQ
+
+#### How long will this plugin be necessary?
+
+The Rust developers have made [this commit](https://commits.facepunch.com/378223) to fix the issue. It will likely be released in the March 2021 update. After that point, you can uninstall this plugin.
 
 #### How do I spawn a drone?
 
