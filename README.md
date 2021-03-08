@@ -1,4 +1,8 @@
-**Remote-controllable drones are still a work-in-progress by the Rust developers. This plugin fixes one of the current issues with them.**
+## This plugin is no longer necessary
+
+As expected, Facepunch fixed the issue with drones disconnecting in the March 2021 update, rendering this plugin unnecessary.
+
+## Features
 
 This plugin fixes the issue where remote-controlling a Drone via a computer station can cause it to lose signal when it gets out of range. With this plugin installed, the signal is never lost.
 
@@ -14,7 +18,7 @@ Admins can spawn a drone entity with the `spawn drone.deployed` command in the F
 
 #### How do I get the deployable drone item?
 
-Admins can use the command `inventory.give drone 1` to give themselves one or more drones. They can also be added to kits.
+Admins can use the command `inventory.give drone 1` to give themselves one or more drones. They can also be added to loot tables (via plugins), kits, GUI shops, etc.
 
 #### How do I remote-control a drone?
 
