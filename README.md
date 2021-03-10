@@ -1,6 +1,6 @@
 ## This plugin is no longer necessary
 
-As expected, Facepunch fixed the issue with drones disconnecting in the March 2021 update, rendering this plugin unnecessary.
+As of the March Rust 2021 update, RC drones have unlimited range, so this plugin is no longer necessary.
 
 ## Features
 
